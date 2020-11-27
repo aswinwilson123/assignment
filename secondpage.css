@@ -1,0 +1,160 @@
+body{
+  margin: auto;
+  background-color: white;
+}
+.header{
+  background-color: rgb(231, 60, 29);
+  font-size: 30%;
+  color: white;
+}
+#item{
+  float: right;
+}
+#logo{
+  color: red;
+  background-color: white;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  margin: auto;
+  font-size: 30px;
+  margin-left: 30px;
+}
+#account{
+  text-align: center;
+  color: rebeccapurple;
+}
+.filter{
+  font-size: 20px;
+  color: rgb(41, 36, 36);
+  width: 20%;
+  border: 5px gray;
+  margin-left: 10px;
+  margin-bottom: 30px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 3px 15px black;
+border-radius: 15px;
+}
+h1{
+  margin-left: 60px;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+  margin-left: 15px;
+  margin-bottom: 10px;
+}
+span{
+  font-weight: bold;
+  margin-left: 16px;
+  margin-top: 10px;
+} 
+.dropdown{
+  font-size: 20px;
+  text-align: center;
+  margin-left: 40px;
+  line-height: 1;
+  margin-top: 10px;
+}
+.checkbox{
+  margin-left: 15px;
+}
+p{
+  margin-bottom: 10px;
+}
+input{
+  margin-top: 10px;
+}
+.radio{
+  margin-left: 15px;
+}
+#radio{
+  margin-left: 15px;
+}
+p{
+  font-weight: bold;
+}
+.checkbox{
+  margin-left: 15px;
+}
+p{
+  margin-bottom: 10px;
+}
+input{
+  margin-top: 10px;
+}
+.radio{
+  margin-left: 15px;
+}
+#radio{
+  margin-left: 15px;
+}
+p{
+  font-weight: bold;
+}
+#item{
+  width: 70%;
+  float: right;
+}
+.second{
+  margin-top: 15%;
+}
+.first{
+  border: 2px solid rgb(255, 255, 255);
+  height: 200px;
+  width: 40%;
+  background-color: white;
+  float: right;
+  text-align: center;
+  border-radius: 5%;
+  color: rgb(46, 5, 14);
+  margin-left: 10%;
+  margin-top: auto;
+  margin-bottom: auto;
+  box-shadow:0 3px 10px black;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.second{
+  margin-top: 15%;
+}
+@media screen and (min-width: 480px) {
+  body {
+    background-color: lightgreen;
+  }
+  .first{
+      width: 44%;
+      margin-top:5%;
+  }
+}
+@media screen and (min-width: 880px) {
+  body {
+    background-color: indianred;
+  }
+  .first{
+      width: 12%;
+  }
+}
+@media screen and (min-width: 1000px) {
+  body {
+    background-color: rgb(27, 163, 56);
+  }
+  .first{
+      width: 15%;
+      height: auto;
+  }
+}
+body{
+  margin: 10px;;
+  background-color: rgb(255, 254, 254);
+}
+#header{
+  width: 100%;
+  height: 50px;
+  background-color: rgb(218, 8, 8);
+  color: white;
+}
+span{
+  font-size: 40px;
+}
+
+
